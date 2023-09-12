@@ -19,18 +19,18 @@
   border-bottom: solid black 9px;
 }
 .b {
-  background-color: lightgray;
+  background-color: oldlace;
   grid-column: 2 /5;
   border-bottom: solid black 9px;
 }
 .c {
-  background-color: lightgray;
+  background-color: oldlace;
   grid-row: 2/4;
   border-right: solid black 9px;
   border-bottom: solid black 9px;
 }
 .d {
-  background-color: lightgray;
+  background-color: oldlace;
   grid-column: 2/4;
   grid-row: 2/4;
   border-right: solid black 9px;
@@ -40,12 +40,12 @@
   background-color: blue;
 }
 .f {
-  background-color: lightgray;
+  background-color: oldlace;
   grid-row: 3/5;
   border-top: solid black 15px;
 }
 .g {
-  background-color: darkgrey;
+  background-color: grey;
 }
 .h {
   grid-column: 2;
@@ -57,7 +57,7 @@
 .i {
   grid-column: 1;
   grid-row: 4;
-  background-color: lightgray;
+  background-color: oldlace;
 
   border-right: solid black 9px;
 }
